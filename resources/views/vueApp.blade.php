@@ -14,7 +14,7 @@
     </head>
     <body>
         <div class="container">
-            <h3>Vue.Js CRUD with Laravel 5.5 application</h3>
+            <h3>Vue.Js CRUD with Laravel 5.5 applicationn</h3>
         </div>
         <section id="app"></section>
         <script>
